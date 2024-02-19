@@ -21,7 +21,7 @@ website:
 
 format:
   html:
-    theme: quartz
+    theme: morph
     toc: true
 
 editor: source
