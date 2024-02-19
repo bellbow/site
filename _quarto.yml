@@ -3,24 +3,25 @@ project:
   output-dir: docs
   
 website:
-  title: "MY WEB SITE"
+  title: "Bella Ball"
   navbar:
     left:
       - href: index.qmd
         text: Home
       - projects.qmd
+      - resume.qmd
     tools:
-      - icon: twitter
-        href: https://twitter.com/
+      - icon: linkedin
+        href: https://linkedin.com/in/bellarball
       - icon: github
-        href: https://github.com/YOURUSERNAME/YOURREPO
+        href: https://github.com/bellbow/
   page-footer:
     right: "Built with [Quarto](https://quarto.org/)"
-    left: "&copy; Copyright 2023, YOUR NAME"
+    left: "&copy; Copyright 2023, Bella Ball"
 
 format:
   html:
-    theme: cerulean
+    theme: quartz
     toc: true
 
 editor: source

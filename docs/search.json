@@ -1,5 +1,33 @@
 [
   {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "About Me",
+    "section": "",
+    "text": "Upon graduation, I intend to pursue a master’s degree in Data Science. After that, I hope to pursue a career in Machine Learning, Data Science, Database Management, or Software Development.\n\n\n\nI am a senior graduating from Baylor University in December 2024 with a major in Management Information Systems and a minor in Data Science.\nOn-campus I am involved with the Data Science Club, ACM-W, and AIS.\n\n\n\nSummer 2023, I led a team of high school interns at Code2College developing a projects and lesson plans for a beginner data analysis course for high school students."
+  },
+  {
+    "objectID": "index.html#goals",
+    "href": "index.html#goals",
+    "title": "About Me",
+    "section": "",
+    "text": "Upon graduation, I intend to pursue a master’s degree in Data Science. After that, I hope to pursue a career in Machine Learning, Data Science, Database Management, or Software Development."
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "About Me",
+    "section": "",
+    "text": "I am a senior graduating from Baylor University in December 2024 with a major in Management Information Systems and a minor in Data Science.\nOn-campus I am involved with the Data Science Club, ACM-W, and AIS."
+  },
+  {
+    "objectID": "index.html#experience",
+    "href": "index.html#experience",
+    "title": "About Me",
+    "section": "",
+    "text": "Summer 2023, I led a team of high school interns at Code2College developing a projects and lesson plans for a beginner data analysis course for high school students."
+  },
+  {
     "objectID": "projects.html#project-2",
     "href": "projects.html#project-2",
     "title": "Projects",
@@ -12,12 +40,5 @@
     "title": "Projects",
     "section": "Project 3",
     "text": "Project 3"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "About Me",
-    "section": "",
-    "text": "Thanks for checking out my web site!"
   }
 ]
